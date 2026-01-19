@@ -22,6 +22,13 @@ Top Keywords List: Frequency table of the top 20 words used in complaints.
 
 Raw Data Explorer: View and sort the underlying dataset with an option to see cleaned text.
 
+Data Source:
+
+The dataset used in this dashboard is the Twitter US Airline Sentiment dataset.
+
+Download Link: Kaggle - Twitter US Airline Sentiment (https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
+
+Please download Tweets.csv from the link above and place it in the project root directory.
 Installation:
 
 Clone the repository:
